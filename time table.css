@@ -1,0 +1,25 @@
+
+table,th,td{
+    border:1px solid black;
+    /* border-collapse: collapse; */
+   
+    border-radius: 5px;
+    border-color: navy;
+    border-width: 2%;
+    border-spacing: 5px;
+    padding: 7px;
+}
+th{
+    color: red;
+    background-color: yellow;
+    width: fit-content;
+    height: fit-content;
+}
+td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td:hover{
+    background-color: royalblue;
+    /* color: royalblue; */
+}
