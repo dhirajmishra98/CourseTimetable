@@ -22,5 +22,5 @@ td{
 td:hover{
     background-color: royalblue;
     /* color: royalblue; */
-    transform: scale(2);
+    transform: scale(1.2);
 }
